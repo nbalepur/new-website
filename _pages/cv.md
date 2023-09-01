@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-redirect_to: https://www.overleaf.com/read/brzntgpfnvtx
+nav_order: 3
+cv_pdf: CV.pdf
 ---
