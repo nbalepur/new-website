@@ -1,6 +1,8 @@
-"ACL":
-  url: https://aclanthology.org/
+"ACL 2023":
+  url: "https://aclanthology.org/"
   color: "#cf061a"
 
 "Preprint":
+  url: "https://arxiv.org/"
   color: "#a3a0a0"
+  
