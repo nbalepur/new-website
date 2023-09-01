@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Computer Science at <a href='#'>University of Maryland, College Park</a>.
+subtitle: 
+  Ph.D. in Computer Science at <a href='#'>University of Maryland, College Park</a>.
+  Advisor: Professor Jordan Boyd-Graber
 
 profile:
   align: right
@@ -17,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Nishant and I'm an incoming Computer Science Ph.D. student at the University of Maryland, College Park. I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab, planning to work with Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/), [Hal Daumé III](http://users.umiacs.umd.edu/~hal/), and [Rachel Rudinger](https://rudinger.github.io/). I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
+Hello! My name is Nishant and I'm a first-year Computer Science Ph.D. student at the University of Maryland, College Park. I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab, currently working with Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/) and [Rachel Rudinger](https://rudinger.github.io/). I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/) as of 2023.
 
 I am fascinated with the intersection of language, information, and AI safety in natural language processing. I am especially passionate about developing frameworks that align with human values, with a focus on factuality and truthfulness in text generation, socially aware and human-centered language technologies, and language model safety.
 
