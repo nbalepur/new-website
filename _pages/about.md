@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: true # crops the image to make it circular
   address: >
-    Email: <p>nbalepur [at] umd [dot] edu</p>
+    <p>nbalepur[at]umd[dot]edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
