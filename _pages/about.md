@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Computer Science at <a href='https://umd.edu/'>University of Maryland, College Park</a>. Advisor: Professor Jordan Boyd-Graber
+subtitle: Ph.D. in Computer Science at <a href='https://umd.edu/'>University of Maryland, College Park</a>. Advisor-Professor Jordan Boyd-Graber
 
 profile:
   align: right
