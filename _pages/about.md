@@ -7,9 +7,9 @@ subtitle: Ph.D. in Computer Science at <a href='https://umd.edu/'>University of 
 profile:
   align: right
   image: profile.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>nbalepur [at] umd [dot] edu</p>
+    Email: <p>nbalepur [at] umd [dot] edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
