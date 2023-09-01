@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Ph.D. in Computer Science at <a href='https://umd.edu/'>University of Maryland, College Park</a>
