@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-3-29 16:11:00 -0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Extremely honored to recieve the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Thank you to everyone who made this possible!
