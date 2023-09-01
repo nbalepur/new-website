@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2015-5
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+New preprints spanning text generation ([Expository Text Generation: Imitate, Retrieve, Paraphrase](https://arxiv.org/abs/2305.03276)) and LLM truthfulness ([Mastering the ABCDs of Complex Questions: Answer-Based Claim Decomposition for Fine-grained Self-Evaluation](https://arxiv.org/abs/2305.14750))!
