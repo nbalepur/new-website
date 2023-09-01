@@ -40,7 +40,7 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
-
+          <br />
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             {%- include news.html limit=true %}
@@ -51,7 +51,7 @@ layout: default
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
-
+          <br />
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">📝 Selected Publications</a></h2>
