@@ -15,6 +15,7 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+nav_order: 1
 ---
 
 Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professor [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
