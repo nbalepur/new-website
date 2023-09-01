@@ -1,8 +1,11 @@
 "ACL 2023":
-  url: "https://aclanthology.org/"
-  color: "#cf061a"
+  url: https://2023.aclweb.org/
+  color: "#DC3535"
+
+"EMNLP 2023":
+  url: https://2022.emnlp.org/
+  color: "#DC3535"
 
 "Preprint":
-  url: "https://arxiv.org/"
-  color: "#a3a0a0"
-  
+  url: https://arxiv.org/
+  color: "#497174"
