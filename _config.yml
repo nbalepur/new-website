@@ -280,7 +280,7 @@ scholar:
   last_name: [Balepur]
   first_name: [Nishant]
 
-  style: apa
+  style: association-for-computational-linguistics
   locale: en
 
   source: /_bibliography/
