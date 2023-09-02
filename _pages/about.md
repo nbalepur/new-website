@@ -20,7 +20,12 @@ nav_order: 1
 
 Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professor [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
 
-I am fascinated with the intersection of language, information, and AI safety. I am especially passionate about developing frameworks that align with **human values**, with a focus on **truthfulness** in text generation, **human-centered** language technologies, and language model **safety**. Currently, I am developing methods to align LLMs for educational applications and to equip LLMs with more interpretable reasoning.
+I am fascinated with the intersection of language, information, and AI safety. I am especially passionate about developing frameworks that align with **human values**, with a focus on:
+1. **truthfulness** in text generation
+2. **human-centered** language technologies
+3. **language model safety**
+   
+Currently, I am developing methods to align LLMs for educational applications and to equip LLMs with more interpretable reasoning.
 
 Before UMD, I obtained my B.S. in Computer Science and Statistics at the University of Illinois at Urbana-Champaign, where I had the pleasure to collaborate with Professors [Kevin Chang](https://cs.illinois.edu/about/people/faculty/kcchang), [Jiawei Han](http://hanj.cs.illinois.edu/), [Hari Sundaram](http://sundaram.cs.illinois.edu/research.html), and [Diyi Yang](https://cs.stanford.edu/~diyiy/group.html), and recieved great mentorship from graduate students [Jie Huang](https://jeffhj.github.io/) and [Shivam Agarwal](https://shivamag125.github.io/).
 
