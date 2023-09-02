@@ -24,7 +24,7 @@ Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab**
 I am fascinated with the intersection of language, information, and AI safety. I am especially passionate about developing frameworks that align with **human values**, with a focus on:
 1. **truthfulness** in text generation
 2. **human-centered** language technologies
-3. **language model safety**
+3. LLM **safety** and **interpretability**
    
 Currently, I am developing methods to align LLMs for educational applications and to equip LLMs with more interpretable reasoning.
 
