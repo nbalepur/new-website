@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 1
 ---
 
-Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/) and [Rachel Rudinger](https://rudinger.github.io/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
+Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
 
 I am fascinated with the intersection of language, information, and AI safety. I am especially passionate about developing frameworks that align with **human values**, with a focus on:
 1. **factuality** in text generation ([Arxiv 2023a](https://arxiv.org/abs/2305.03276))
