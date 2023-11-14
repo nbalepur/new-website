@@ -24,7 +24,7 @@ Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab**
 I am fascinated with the intersection of language, information, and AI safety. I am especially passionate about developing frameworks that align with **human values**, with a focus on:
 1. **factuality** in text generation [[EMNLP 2023a](https://arxiv.org/pdf/2305.03276)], [[EMNLP 2023b](https://arxiv.org/pdf/2310.14486.pdf)]
 2. **human-centered** frameworks [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/)]
-3. **[Muppet](https://www.youtube.com/watch?v=u0DgoRVLTE8)** (LLM) **safety** and **interpretability** [[Arxiv 2023](https://arxiv.org/abs/2305.14750)]
+3. **[Muppet](https://www.youtube.com/watch?v=u0DgoRVLTE8)** (LLM) **safety** and **interpretability** [[Arxiv 2023a](https://arxiv.org/pdf/2311.07532.pdf), [Arxiv 2023b](https://arxiv.org/abs/2305.14750)]
    
 Currently, I am developing methods to align Muppets for educational applications and to equip Muppets with more interpretable reasoning.
 
