@@ -22,7 +22,7 @@ nav_order: 1
 Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
 
 I am fascinated with the intersection of language, information, and AI safety. I am especially passionate about developing frameworks that align with **human values**, with a focus on:
-1. **factuality** in text generation [[EMNLP 2023a](https://arxiv.org/pdf/2305.03276)], [[EMNLP 2023b](https://arxiv.org/pdf/2310.14486.pdf)]
+1. **factuality** in text generation [[EMNLP 2023a](https://arxiv.org/pdf/2305.03276), [EMNLP 2023b](https://arxiv.org/pdf/2310.14486.pdf)]
 2. **human-centered** frameworks [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/)]
 3. **[Muppet](https://www.youtube.com/watch?v=u0DgoRVLTE8)** (LLM) **safety** and **interpretability** [[Arxiv 2023a](https://arxiv.org/pdf/2311.07532.pdf), [Arxiv 2023b](https://arxiv.org/abs/2305.14750)]
    
