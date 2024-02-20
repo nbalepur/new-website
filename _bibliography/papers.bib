@@ -1,6 +1,32 @@
+@article{balepur2023artifact,
+  abbr= "Preprint",
+  title={Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?},
+  author={Balepur, Nishant and Ravichander, Abhilasha and Rudinger, Rachel},
+  journal={arXiv preprint},
+  year={2024},
+  selected={true},
+  bibtex_show={true},
+  url = "https://arxiv.org/pdf/2402.12291.pdf",
+  pdf = "https://arxiv.org/pdf/2402.12291.pdf",
+  abstract = "Multiple-choice question answering (MCQA) is often used to evaluate large language models (LLMs). To see if MCQA assesses LLMs as intended, we probe if LLMs can perform MCQA with \emph{choices-only} prompts, where models must select the correct answer only from the choices. In three MCQA datasets and four LLMs, this prompt bests a majority baseline in 11/12 cases, with up to 0.33 accuracy gain. To help explain this behavior, we conduct an in-depth, black-box analysis on memorization, choice dynamics, and question inference. Our key findings are threefold. First, we find no evidence that the choices-only accuracy stems from memorization alone. Second, priors over individual choices do not fully explain choices-only accuracy, hinting that LLMs use the group dynamics of choices. Third, LLMs have some ability to infer a relevant question from choices, and surprisingly can sometimes even match the original question. We hope to motivate the use of stronger baselines in MCQA benchmarks, the design of robust MCQA datasets, and further efforts to explain LLM decision-making.",
+}
+
+@article{shu2023KARL,
+  abbr= "Preprint",
+  title={KARL: Knowledge-Aware Retrieval and Representations aid Retention and Learning in Students},
+  author={Shu, Matthew and Balepur, Nishant and Feng, Shi and Boyd-Graber, Jordan},
+  journal={arXiv preprint},
+  year={2024},
+  selected={true},
+  bibtex_show={true},
+  url = "https://arxiv.org/pdf/2402.12291.pdf",
+  pdf = "https://arxiv.org/pdf/2402.12291.pdf",
+  abstract = "Flashcard schedulers are tools that rely on 1) student models to predict the flashcards a student knows; and 2) teaching policies to schedule cards based on these predictions. Existing student models, however, only use flashcard-level features, like the student's past responses, ignoring the semantic ties of flashcards. Deep Knowledge Tracing (DKT) models can capture semantic relations with language models, but are inefficient, lack content-rich datasets for evaluation, and require robust teaching policies. To address these issues, we design KARL, a DKT-inspired student model that uses retrieval and BERT embeddings for efficient and accurate student recall predictions. To test KARL, we collect a new dataset of diverse study history on trivia questions. KARL bests existing student models in AUC and calibration error. Finally, we propose a novel teaching policy that exploits the predictive power of DKT models to deploy KARL online. Based on 27 learners and 32 6-day study trajectories, KARL shows the ability to enhance medium-term educational learning, proving its efficacy for scheduling.",
+}
+
 @article{balepur2023not,
   abbr= "Preprint",
-  title={It’s Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models},
+  title={It's Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning},
   author={Balepur, Nishant and Palta, Shramay and Rudinger, Rachel},
   journal={arXiv preprint},
   year={2023},
@@ -8,8 +34,9 @@
   bibtex_show={true},
   url = "https://arxiv.org/pdf/2311.07532.pdf",
   pdf = "https://arxiv.org/pdf/2311.07532.pdf",
-  abstract = "Chain-of-thought (COT) prompting can help large language models (LLMs) reason toward \emph{correct} answers, but its efficacy in reasoning toward \emph{incorrect} answers is unexplored. This strategy of process of elimination (PoE), when used with COT, has the potential to enhance interpretability in tasks like medical diagnoses of exclusion. Thus, we propose PoE with COT, a new task where LLMs must reason toward incorrect options on multiple-choice questions. We evaluate the ability of GPT-3.5, LLaMA-2, and Falcon to perform PoE with COT on 2-choice commonsense and scientific reasoning datasets. We show that PoE consistently underperforms directly choosing the correct answer. The agreement of these strategies is also lower than the self-consistency of each strategy. To study these issues further, we conduct an error analysis and give suggestions for future work.",
+  abstract = "Chain-of-thought (COT) prompting can help large language models (LLMs) reason toward correct answers, but its efficacy in reasoning toward incorrect answers is unexplored. This process of elimination (PoE), when used with COT, can enhance self-consistency, interpretability, and tasks such as medical diagnoses of exclusion. Thus, we propose PoE with COT, where LLMs must reason toward incorrect options on multiple-choice questions. We evaluate the ability of GPT-3.5, LLaMA-2, and Falcon to perform PoE with COT on a total of four commonsense and scientific reasoning datasets. We find that the strategy of PoE always underperforms the strategy of choosing the correct answer. The agreement of these strategies is also lower than the self-consistency of each strategy. To study these issues further, we conduct error analyses and give suggestions for future work.",
 }
+
 
 @inproceedings{balepur2023expository,
   abbr= "EMNLP 2023",
@@ -31,7 +58,7 @@
   author={Balepur, Nishant and Huang, Jie and Chang, Kevin Chen-Chuan},
   booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023},
   year={2023},
-  selected={true},
+  selected={false},
   bibtex_show={true},
   url = "https://arxiv.org/pdf/2310.14486.pdf",
   pdf = "https://arxiv.org/pdf/2310.14486.pdf",
