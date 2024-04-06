@@ -22,9 +22,9 @@ nav_order: 1
 Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
 
 I have recently been working on interpreting and improving the black-box nature of model-generated outputs (primarily [Muppets](https://www.youtube.com/watch?v=u0DgoRVLTE8)/LLMs), more specifically through the lens of reasoning and explanations. My research can broadly be grouped into three questions: 
-1. How **factual** is the content in model outputs? [[EMNLP 2023a](https://arxiv.org/abs/2305.03276), [EMNLP 2023b](https://arxiv.org/abs/2310.14486)]
-2. How can **user guidance and feedback** improve model outputs in downstream tasks? [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/), [Arxiv 2024a](https://arxiv.org/abs/2402.12291)]
-3. How can we **interpret the safety and reliability** of model outputs? [[Arxiv 2023](https://arxiv.org/abs/2311.07532), [Arxiv 2024b](https://arxiv.org/abs/2402.12483)]
+1. How **factual** are model outputs? [[EMNLP 2023a](https://arxiv.org/abs/2305.03276), [EMNLP 2023b](https://arxiv.org/abs/2310.14486)]
+2. How can **user guidance** improve model outputs? [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/), [Arxiv 2024a](https://arxiv.org/abs/2402.12291)]
+3. How can we **interpret** the **safety** and **reliability** of model outputs? [[Arxiv 2023](https://arxiv.org/abs/2311.07532), [Arxiv 2024b](https://arxiv.org/abs/2402.12483)]
 
 I also have a soft spot for discovering unconventional/out-of-domain model weaknesses and subsequently designing frameworks to overcome these issues or explain why they happen. As a result, a lot of my research starts with me playing around with current systems and trying to find ways they can fail.
 
