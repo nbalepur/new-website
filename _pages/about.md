@@ -26,6 +26,6 @@ I have recently been working on interpreting and improving the black-box nature 
 2. How can **user guidance** improve model outputs? [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/), [Arxiv 2024a](https://arxiv.org/abs/2402.12291)]
 3. How can we **interpret** the **safety** and **reliability** of model outputs? [[Arxiv 2023](https://arxiv.org/abs/2311.07532), [Arxiv 2024b](https://arxiv.org/abs/2402.12483)]
 
-I also have a soft spot for discovering unconventional/out-of-domain model weaknesses and subsequently designing frameworks to overcome these issues or explain why they happen. As a result, a lot of my research starts with me playing around with current systems and trying to find ways they can fail.
+I also have a soft spot for discovering unconventional/out-of-domain model weaknesses and subsequently designing frameworks to overcome these issues or explain why they happen. As a result, a lot of my research starts with an observation after trying to break current models.
 
 If you are looking for research experience (especially UMD students), or have any questions about NSF or anything else, please [reach out](mailto:nbalepur@umd.edu)!
