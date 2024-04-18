@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 1
 ---
 
-Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
+Hi! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab** at the University of Maryland, where I am fortunate to be advised by **Professors [Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. As of 2023, I am extremely thankful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/).
 
 I have recently been working on interpreting and improving the black-box nature of model-generated outputs (primarily [Muppets](https://www.youtube.com/watch?v=u0DgoRVLTE8)/LLMs), more specifically through the lens of reasoning and explanations. My research can broadly be grouped into three questions: 
 1. How **factual** are model outputs?
