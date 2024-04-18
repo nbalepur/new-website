@@ -168,6 +168,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  newsnegative:
+    defaults:
+      layout: post
+    output: true
+    permalink: /newsnegative/:path/
   projects:
     output: true
     permalink: /projects/:path/
