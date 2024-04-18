@@ -25,7 +25,7 @@ Hello! My name is Nishant and I'm a first-year Ph.D. student in the **CLIP Lab**
 I have recently been working on interpreting and improving the black-box nature of model-generated outputs (primarily [Muppets](https://www.youtube.com/watch?v=u0DgoRVLTE8)/LLMs), more specifically through the lens of reasoning and explanations. My research can broadly be grouped into three questions: 
 1. How **factual** are model outputs?
    [[EMNLP 2023a](https://arxiv.org/abs/2305.03276), [EMNLP 2023b](https://arxiv.org/abs/2310.14486)]
-2. How can **user guidance** improve model outputs?
+2. How can **users guide** model outputs?
    [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/), [Arxiv 2024a](https://arxiv.org/abs/2402.12291)]
 3. How can we **interpret** the **safety** and **reliability** of model outputs?
    [[Arxiv 2023](https://arxiv.org/abs/2311.07532), [Arxiv 2024b](https://arxiv.org/abs/2402.12483)]
