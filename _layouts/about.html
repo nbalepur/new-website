@@ -41,6 +41,13 @@ layout: default
             {{ content }}
           </div>
           <br />
+
+            <!-- Selected papers -->
+          {% if page.selected_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">📝 Selected Publications</a></h2>
+            {%- include selected_papers.html %}
+          {%- endif %}
+              
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             {%- include news.html limit=true %}
@@ -52,11 +59,7 @@ layout: default
             {%- include latest_posts.html %}
           {%- endif %}
           <br />
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">📝 Selected Publications</a></h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
+
 
           <!-- News Negative -->
           {% if page.newsnegative and site.announcements.enabled -%}
