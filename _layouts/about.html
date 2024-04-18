@@ -45,10 +45,6 @@ layout: default
           {% if page.news and site.announcements.enabled -%}
             {%- include news.html limit=true %}
           {%- endif %}
-          <!-- News Negative -->
-          {% if page.newsnegative and site.announcements.enabled -%}
-            {%- include newsnegative.html limit=true %}
-          {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
@@ -60,6 +56,11 @@ layout: default
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">📝 Selected Publications</a></h2>
             {%- include selected_papers.html %}
+          {%- endif %}
+
+          <!-- News Negative -->
+          {% if page.newsnegative and site.announcements.enabled -%}
+            {%- include newsnegative.html limit=true %}
           {%- endif %}
 
           <!-- Social -->
