@@ -1,5 +1,5 @@
-          <div class="news">
-             <h2>📰 News</h2>
+          <div class="newsnegative">
+             <h2>📰 Negative News</h2>
             {% if site.news != blank -%}
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
@@ -10,7 +10,7 @@
               {% else %}
               {% assign news_limit = news_size %}
               {% endif %}
-              {% for item in news limit: news_limit %}
+              {% for item in negativenews limit: news_limit %}
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
