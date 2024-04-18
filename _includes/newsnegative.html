@@ -1,7 +1,7 @@
           <div class="newsnegative">
              <h2>😔 Research Lowlights</h2>
             {% if site.newsnegative != blank -%}
-            {%- assign news_size = sitenewsnegative | size -%}
+            {%- assign news_size = site.newsnegative | size -%}
             <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
               <table class="table table-sm table-borderless">
               {%- assign newsnegative = site.newsnegative | reverse -%}
