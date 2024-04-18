@@ -45,6 +45,10 @@ layout: default
           {% if page.news and site.announcements.enabled -%}
             {%- include news.html limit=true %}
           {%- endif %}
+          <!-- News Negative -->
+          {% if page.newsnegative and site.announcements.enabled -%}
+            {%- include news.html limit=true %}
+          {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
