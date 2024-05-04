@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 1
 ---
 
-Hello! My name is Nishant and I'm a first-year Ph.D. student at the University of Maryland, where I am fortunate to be advised by Professors **[Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. My work is graciously supported by the [NSF GRFP](https://www.nsfgrfp.org/) and the [Cohere For AI Research Grant](https://cohere.com/blog/c4ai-research-grants).
+Hello! My name is Nishant and I'm a first-year Ph.D. student at the University of Maryland, where I am fortunate to be advised by Professors **[Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. My work is graciously supported by the [NSF GRFP](https://www.nsfgrfp.org/) and a [Cohere For AI Research Grant](https://cohere.com/blog/c4ai-research-grants).
 
 I am currently working on aligning, interpreting, and guiding [Muppet](https://www.youtube.com/watch?v=u0DgoRVLTE8) (LLM) outputs. My research can broadly be grouped into three questions: 
 1. How can we make model outputs more **factual**?
