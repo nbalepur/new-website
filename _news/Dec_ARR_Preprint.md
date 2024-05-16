@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two new preprints on LLM interpretability and NLP for education! See the papers here: [Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?](https://arxiv.org/abs/2402.12483) and [KARL: Knowledge-Aware Retrieval and Representations aid Retention and Learning in Students](https://arxiv.org/abs/2402.12291)
+New preprint on building an NLP-powered flashcard scheduler! [KARL: Knowledge-Aware Retrieval and Representations aid Retention and Learning in Students](https://arxiv.org/abs/2402.12291)
