@@ -6,6 +6,18 @@
   url: https://2024.aclweb.org/
   color: "#DC3535"
 
+"ACL 2023 (Findings)":
+  url: https://2023.aclweb.org/
+  color: "#DC3535"
+
+"ACL 2024 (Findings)":
+  url: https://2024.aclweb.org/
+  color: "#DC3535"
+
+"ACL 2024 (KnowledgeLM Workshop)":
+  url: https://knowledgeable-lm.github.io/
+  color: "#DC3535"
+
 "EMNLP 2023":
   url: https://2023.emnlp.org/
   color: "#fac919"
