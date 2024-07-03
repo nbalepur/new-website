@@ -32,5 +32,3 @@ I am currently working on aligning, interpreting, and guiding LLMs (or [Muppets]
 
 
 If you are looking for research experience (especially UMD students), or have any questions about NSF or anything else, please [reach out](mailto:nbalepur@umd.edu)!
-
-<p style="font-size:12px;">If you've encountered another "Balepur, N" in publications, you may be thinking of my sister [Naina Balepur](https://nainasb.github.io/) :) </p>
