@@ -27,7 +27,7 @@ I am currently working on aligning, interpreting, and guiding LLMs (or [Muppets]
    [[EMNLP 2023a](https://arxiv.org/abs/2305.03276), [EMNLP 2023b](https://arxiv.org/abs/2310.14486)]
 2. How can we align models to **downstream user goals**?
    [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/), [Arxiv 2024a](https://arxiv.org/abs/2402.12291), [Arxiv 2024b](https://arxiv.org/abs/2406.15352)]
-3. How can we probe the **weaknesses** and **capabilities** of models?
+3. How can we probe model **weaknesses** and **capabilities**?
    [[ACL 2024a](https://arxiv.org/abs/2311.07532), [ACL 2024b](https://arxiv.org/abs/2402.12483), [KnowledgeLM@ACL 2024](https://arxiv.org/abs/2407.01992)]
 
 
