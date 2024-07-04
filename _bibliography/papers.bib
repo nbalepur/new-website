@@ -62,6 +62,7 @@
   year={2024},
   selected={false},
   bibtex_show={true},
+  is_first_author={true},
   url = "https://arxiv.org/abs/2402.12291",
   pdf = "https://arxiv.org/pdf/2402.12291.pdf",
   abstract = "Flashcard schedulers are tools that rely on 1) student models to predict the flashcards a student knows; and 2) teaching policies to schedule cards based on these predictions. Existing student models, however, only use flashcard-level features, like the student's past responses, ignoring the semantic ties of flashcards. Deep Knowledge Tracing (DKT) models can capture semantic relations with language models, but are inefficient, lack content-rich datasets for evaluation, and require robust teaching policies. To address these issues, we design KARL, a DKT-inspired student model that uses retrieval and BERT embeddings for efficient and accurate student recall predictions. To test KARL, we collect a new dataset of diverse study history on trivia questions. KARL bests existing student models in AUC and calibration error. Finally, we propose a novel teaching policy that exploits the predictive power of DKT models to deploy KARL online. Based on 27 learners and 32 6-day study trajectories, KARL shows the ability to enhance medium-term educational learning, proving its efficacy for scheduling.",
