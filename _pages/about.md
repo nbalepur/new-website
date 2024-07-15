@@ -31,4 +31,4 @@ I am currently working on aligning, interpreting, and guiding LLMs (or [Muppets]
    [[ACL 2024a](https://arxiv.org/abs/2311.07532), [ACL 2024b](https://arxiv.org/abs/2402.12483), [KnowledgeLM@ACL 2024](https://arxiv.org/abs/2407.01992)]
 
 
-If you've encountered another "Balepur, N" during your literature search, you may be thinking of my sister, [Naina Balepur](https://nainasb.github.io/) :)
+If you've encountered another "Balepur, N" during your literature search, you may be looking for [my sister](https://nainasb.github.io/) 😛
