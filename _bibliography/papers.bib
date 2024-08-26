@@ -6,9 +6,9 @@
       selected={false},
       bibtex_show={true},
       archivePrefix={arXiv},
-      eprint={2406.15352}
-      url="https://nbalepur.github.io/assets/pdf/DQFS.pdf"
-      pdf="https://nbalepur.github.io/assets/pdf/DQFS.pdf"
+      eprint={2406.15352},
+      url="https://nbalepur.github.io/assets/pdf/DQFS.pdf",
+      pdf="https://nbalepur.github.io/assets/pdf/DQFS.pdf",
       abstract = "Query-focused summarization (QFS) gives a summary of documents to answer a query. Past QFS work assumes queries have one answer, ignoring debatable ones (Is law school worth it?}. We introduce Debatable QFS (DQFS), a task to create summaries that answer debatable queries via documents with opposing perspectives; summaries must comprehensively cover all sources and balance perspectives, favoring no side. These goals elude LLM QFS systems, which: 1) lack structured content plans, failing to guide LLMs to write balanced summaries, and 2) employ the same query to retrieve contexts across documents, failing to cover all perspectives specific to each document's content. To overcome this, we design MoDS, a multi-LLM framework mirroring human panel discussions. MoDS treats documents as individual Speaker LLMs and has a Moderator LLM that picks speakers to respond to tailored queries for planned topics. Speakers use tailored queries to retrieve relevant contexts from their documents and supply perspectives, which are tracked in a rich outline, yielding a content plan to guide the final summary. Experiments on ConflictingQA with controversial web queries and DebateQFS, our new dataset of debate queries from Debatepedia, show MoDS beats SOTA by 38-59\% in topic paragraph coverage and balance, based on new citation metrics. Users also find MoDS's summaries to be readable and more balanced."
 }
 
@@ -63,6 +63,7 @@
 
 @inproceedings{balepur-etal-2024-artifacts,
     abbr="ACL 2024",
+    selected={true}
     title = "Artifacts or Abduction: How Do {LLM}s Answer Multiple-Choice Questions Without the Question?",
     awards={Best Paper Award (4%) and Oral (7%) at MASC-SSL 2024},
     author = "Balepur, Nishant  and
@@ -80,21 +81,6 @@
     pdf = "https://aclanthology.org/2024.acl-long.555.pdf",
     pages = "10308--10330",
     abstract = "Multiple-choice question answering (MCQA) is often used to evaluate large language models (LLMs). To see if MCQA assesses LLMs as intended, we probe if LLMs can perform MCQA with choices-only prompts, where models must select the correct answer only from the choices. In three MCQA datasets and four LLMs, this prompt bests a majority baseline in 11/12 cases, with up to 0.33 accuracy gain. To help explain this behavior, we conduct an in-depth, black-box analysis on memorization, choice dynamics, and question inference. Our key findings are threefold. First, we find no evidence that the choices-only accuracy stems from memorization alone. Second, priors over individual choices do not fully explain choices-only accuracy, hinting that LLMs use the group dynamics of choices. Third, LLMs have some ability to infer a relevant question from choices, and surprisingly can sometimes even match the original question. We hope to motivate the use of stronger baselines in MCQA benchmarks, the design of robust MCQA datasets, and further efforts to explain LLM decision-making.",
-}
-
-@article{balepur2023artifact,
-
-  title={Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?},
-  author={Balepur, Nishant and Ravichander, Abhilasha and Rudinger, Rachel},
-  journal={The 62nd Annual Meeting of the Association for Computational Linguistics},
-  awards={Oral Presentation (7%) and Best Paper Award (4%) at MASC-SSL 2024},
-  year={2024},
-  selected={true},
-  bibtex_show={true},
-  url = "https://arxiv.org/abs/2402.12483",
-  pdf = "https://arxiv.org/pdf/2402.12483.pdf",
-  slides = "https://nbalepur.github.io/assets/pdf/Artifacts_or_Abduction.pdf",
-  abstract = "Multiple-choice question answering (MCQA) is often used to evaluate large language models (LLMs). To see if MCQA assesses LLMs as intended, we probe if LLMs can perform MCQA with choices-only prompts, where models must select the correct answer only from the choices. In three MCQA datasets and four LLMs, this prompt bests a majority baseline in 11/12 cases, with up to 0.33 accuracy gain. To help explain this behavior, we conduct an in-depth, black-box analysis on memorization, choice dynamics, and question inference. Our key findings are threefold. First, we find no evidence that the choices-only accuracy stems from memorization alone. Second, priors over individual choices do not fully explain choices-only accuracy, hinting that LLMs use the group dynamics of choices. Third, LLMs have some ability to infer a relevant question from choices, and surprisingly can sometimes even match the original question. We hope to motivate the use of stronger baselines in MCQA benchmarks, the design of robust MCQA datasets, and further efforts to explain LLM decision-making.",
 }
 
 @article{shu2023KARL,
