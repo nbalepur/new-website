@@ -22,7 +22,7 @@ nav_order: 1
 
 Hi! My name is Nishant and I'm a second-year Ph.D. student at the University of Maryland, where I am fortunate to be advised by Professors **[Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. I am graciously supported by the [NSF GRFP](https://www.nsfgrfp.org/) and a [Cohere For AI Research Grant](https://cohere.com/blog/c4ai-research-grants).
 
-I am (super broadly) working on aligning and evaluating LLMs (or [Muppets](https://www.youtube.com/watch?v=u0DgoRVLTE8)). My research can be grouped into three questions: 
+I am (super broadly) working on aligning and evaluating LLMs (or [Muppets](https://www.youtube.com/watch?v=u0DgoRVLTE8)). My research can be grouped into 3 questions: 
 1. How can we make models more **factual**?
    [[EMNLP 2023a](https://arxiv.org/abs/2305.03276), [EMNLP 2023b](https://arxiv.org/abs/2310.14486)]
 2. How can we guide models toward **downstream user goals**?
