@@ -18,6 +18,10 @@
   url: https://knowledgeable-lm.github.io/
   color: "#DC3535"
 
+"EMNLP 2024":
+  url: https://2024.emnlp.org/
+  color: "#fac919"
+
 "EMNLP 2023":
   url: https://2023.emnlp.org/
   color: "#fac919"
