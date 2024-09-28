@@ -20,15 +20,15 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 1
 ---
 
-Hi! My name is Nishant and I'm a second-year Ph.D. student at the University of Maryland, where I am fortunate to be advised by Professors **[Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. I am graciously supported by the [NSF GRFP](https://www.nsfgrfp.org/) and a [Cohere For AI Research Grant](https://cohere.com/blog/c4ai-research-grants).
+Hi! My name is Nishant and I'm a second-year Ph.D. student at the University of Maryland, where I am fortunate to be advised by Professors **[Jordan Boyd-Grayber](http://users.umiacs.umd.edu/~jbg/)** and **[Rachel Rudinger](https://rudinger.github.io/)**. I also work very closely with Professor **[Shi Feng](https://ihsgnef.github.io/)** at GWU. I am graciously supported by the [NSF GRFP](https://www.nsfgrfp.org/) and a [Cohere For AI Research Grant](https://cohere.com/blog/c4ai-research-grants).
 
 I am (super broadly) working on aligning and evaluating LLMs (or [Muppets](https://www.youtube.com/watch?v=u0DgoRVLTE8)). My research can be grouped into 3 questions: 
 1. How can we make models more **factual**?
-   [[EMNLP 2023a](https://arxiv.org/abs/2305.03276), [EMNLP 2023b](https://arxiv.org/abs/2310.14486)]
+   [[expository text (EMNLP'23)](https://arxiv.org/abs/2305.03276), [fact transfer (EMNLP'23)](https://arxiv.org/abs/2310.14486)]
 2. How can we guide models toward **downstream user goals**?
-   [[ACL 2023](https://aclanthology.org/2023.findings-acl.14/), [EMNLP 2024a](https://arxiv.org/abs/2402.12291), [EMNLP 2024b](https://arxiv.org/abs/2406.15352)]
-3. How can we better evaluate model **weaknesses** and **capabilities**?
-   [[ACL 2024a](https://arxiv.org/abs/2311.07532), [ACL 2024b](https://arxiv.org/abs/2402.12483), [ACL 2024c](https://arxiv.org/abs/2407.01992)]
+   [[topic mining (ACL'23)](https://aclanthology.org/2023.findings-acl.14/), [flashcards (EMNLP'24)](https://arxiv.org/abs/2402.12291), [mnemonics (EMNLP'24)](https://arxiv.org/abs/2406.15352)]
+3. How can evaluations expose model **weaknesses**?
+   [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [MCQA shortcuts (ACL'24)](https://arxiv.org/abs/2402.12483), [MCQA benchmark cheating (ACL'24)](https://arxiv.org/abs/2407.01992)]
 
 
 If you've encountered another "Balepur, N" during your literature search, you may be looking for [my sister](https://nainasb.github.io/) 😛
