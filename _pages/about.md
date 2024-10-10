@@ -27,8 +27,8 @@ I am (super broadly) working on aligning and evaluating LLMs (or [Muppets](https
    [[expository text (EMNLP'23)](https://arxiv.org/abs/2305.03276), [fact transfer (EMNLP'23)](https://arxiv.org/abs/2310.14486)]
 2. How can we guide models toward **downstream user goals**?
    [[topic mining (ACL'23)](https://aclanthology.org/2023.findings-acl.14/), [flashcards (EMNLP'24)](https://arxiv.org/abs/2402.12291), [mnemonics (EMNLP'24)](https://arxiv.org/abs/2406.15352)]
-3. How can evaluations expose model **weaknesses**?
-   [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [MCQA shortcuts (ACL'24)](https://arxiv.org/abs/2402.12483), [MCQA cheating (ACL'24)](https://arxiv.org/abs/2407.01992)]
+3. How can evaluations expose dataset/model **weaknesses**?
+   [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [MCQA artifacts (ACL'24)](https://arxiv.org/abs/2402.12483), [benchmark cheating (ACL'24)](https://arxiv.org/abs/2407.01992)]
 
 
 If you've encountered another "Balepur, N" during your literature search, you may be looking for [my sister](https://nainasb.github.io/) 😛
