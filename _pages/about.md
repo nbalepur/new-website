@@ -24,11 +24,11 @@ Hi! My name is Nishant and I'm a second-year Ph.D. student at the University of 
 
 I am (super broadly) working on aligning and evaluating LLMs (or [Muppets](https://www.youtube.com/watch?v=u0DgoRVLTE8)). My research can be grouped into 3 questions: 
 1. How can we make models more **factual**?
-   [[expository text (EMNLP'23)](https://arxiv.org/abs/2305.03276), [fact transfer (EMNLP'23)](https://arxiv.org/abs/2310.14486), [debates](https://www.overleaf.com/read/dtxqnwnnkppb#5c4b79)]
+   [[expository text (EMNLP'23)](https://arxiv.org/abs/2305.03276), [fact transfer (EMNLP'23)](https://arxiv.org/abs/2310.14486), [debates](https://drive.google.com/file/d/1LCSlp33gILwGNZyMEiWCnpzWg8jX_of3/view?usp=sharing)]
 2. How can we guide models toward **downstream user goals**?
    [[topic mining (ACL'23)](https://aclanthology.org/2023.findings-acl.14/), [flashcards (EMNLP'24)](https://arxiv.org/abs/2402.12291), [mnemonics (EMNLP'24)](https://arxiv.org/abs/2406.15352)]
 3. How can evaluations expose model and dataset **weaknesses**?
-   [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [mcqa artifacts (ACL'24)](https://arxiv.org/abs/2402.12483), [benchmark cheating (ACL'24)](https://arxiv.org/abs/2407.01992), [mcqa plausibility (EMNLP'24)](https://arxiv.org/abs/2410.10854), [reverse qa](https://www.overleaf.com/read/gnzjpxvsppdb#b89f87)]
+   [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [mcqa artifacts (ACL'24)](https://arxiv.org/abs/2402.12483), [benchmark cheating (ACL'24)](https://arxiv.org/abs/2407.01992), [mcqa plausibility (EMNLP'24)](https://arxiv.org/abs/2410.10854), [reverse qa](https://drive.google.com/file/d/11xguE_V3-TC-Y-WLVpTN0wKweb9wBGHB/view?usp=sharing)]
 
 
 If you've encountered another "Balepur, N" during your literature search, you may be looking for [my sister](https://nainasb.github.io/) 😛
