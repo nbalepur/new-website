@@ -1,11 +1,13 @@
-@misc{balepur2024reverse,
-      title={Reverse Question Answering: Can an LLM Write a Question so Hard (or Bad) that it Can’t Answer?},
+@misc{balepur2024reversequestionansweringllm,
+      title={Reverse Question Answering: Can an LLM Write a Question so Hard (or Bad) that it Can't Answer?}, 
       author={Nishant Balepur and Feng Gu and Abhilasha Ravichander and Shi Feng and Jordan Boyd-Graber and Rachel Rudinger},
-      abbr = "Preprint",
       year={2024},
+      eprint={2410.15512},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
       selected={false},
-      url="https://drive.google.com/file/d/11xguE_V3-TC-Y-WLVpTN0wKweb9wBGHB/view?usp=sharing",
-      pdf="https://drive.google.com/file/d/11xguE_V3-TC-Y-WLVpTN0wKweb9wBGHB/view?usp=sharing",
+      url="https://arxiv.org/abs/2410.15512",
+      pdf="https://arxiv.org/pdf/2410.15512",
       tldr="We find a surprising LLM weakness in reverse question answering: given an answer, can an LLM generate any valid question with that answer?",
       abstract = "Question answering (QA)—producing correct answers for input questions—is popular, but we test a reverse question answering (RQA) task: given an input answer, generate a question with that answer. Past work tests QA and RQA separately, but we test them jointly, comparing their difficulty, aiding benchmark design, and assessing reasoning consistency. 16 LLMs run QA and RQA with trivia questions/answers, showing: 1) Versus QA, LLMs are much less accurate in RQA for numerical answers, but slightly more accurate in RQA for textual answers; 2) LLMs often answer their own invalid questions from RQA accurately in QA, so RQA errors are not from knowledge gaps alone; 3) RQA errors correlate with question difficulty and inversely correlate with answer frequencies in the Dolma corpus; and 4) LLMs struggle to give valid multi-hop questions. By finding question and answer types yielding RQA errors, we suggest improvements for LLM RQA reasoning."
 }
