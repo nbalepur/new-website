@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[KARL](https://arxiv.org/abs/2402.12291) on its fourth resubmission 🫡
+[KAR³L](https://arxiv.org/abs/2402.12291) is on its fourth resubmission 🫡
