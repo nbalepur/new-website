@@ -12,18 +12,6 @@
   abstract = "Question answering (QA)—producing correct answers for input questions—is popular, but we test a reverse question answering (RQA) task: given an input answer, generate a question with that answer. Past work tests QA and RQA separately, but we test them jointly, comparing their difficulty, aiding benchmark design, and assessing reasoning consistency. 16 LLMs run QA and RQA with trivia questions/answers, showing: 1) Versus QA, LLMs are much less accurate in RQA for numerical answers, but slightly more accurate in RQA for textual answers; 2) LLMs often answer their own invalid questions from RQA accurately in QA, so RQA errors are not from knowledge gaps alone; 3) RQA errors correlate with question difficulty and inversely correlate with answer frequencies in the Dolma corpus; and 4) LLMs struggle to give valid multi-hop questions. By finding question and answer types yielding RQA errors, we suggest improvements for LLM RQA reasoning."
 }
 
-@misc{balepur2024mods,
-      title={MoDS: Moderating a Mixture of Document Speakers to Summarize Debatable Queries in Document Collections},
-      author={Nishant Balepur and Alexia Siu and Nedim Lipka and Franck Dernoncourt and Tong Sun and Jordan Boyd-Graber and Puneet Mathur},
-      abbr = "Preprint",
-      year={2024},
-      selected={false},
-      url="https://drive.google.com/file/d/1LCSlp33gILwGNZyMEiWCnpzWg8jX_of3/view?usp=sharing",
-      pdf="https://drive.google.com/file/d/1LCSlp33gILwGNZyMEiWCnpzWg8jX_of3/view?usp=sharing",
-      tldr="We propose the task of summarizing debatable queries (is law school a good idea?) from documents, and use multi-LLM collaboration to beat existing approaches",
-      abstract = "Query-focused summarization (QFS) gives a summary of documents to answer a query. Past QFS work assumes queries have one answer, ignoring debatable ones (Is law school worth it?). We introduce Debatable QFS (DQFS), a task to create summaries that answer debatable queries via documents with opposing perspectives; summaries must comprehensively cover all sources and balance perspectives, favoring no side. These goals elude LLM QFS systems, which: 1) lack structured content plans, failing to guide LLMs to write balanced summaries, and 2) employ the same query to retrieve contexts across documents, failing to cover all perspectives specific to each document's content. To overcome this, we design MoDS, a multi-LLM framework mirroring human panel discussions. MoDS treats documents as individual Speaker LLMs and has a Moderator LLM that picks speakers to respond to tailored queries for planned topics. Speakers use tailored queries to retrieve relevant contexts from their documents and supply perspectives, which are tracked in a rich outline, yielding a content plan to guide the final summary. Experiments on ConflictingQA with controversial web queries and DebateQFS, our new dataset of debate queries from Debatepedia, show MoDS beats SOTA by 38-59% in topic paragraph coverage and balance, based on new citation metrics. Users also find MoDS's summaries to be readable and more balanced."
-}
-
 @inproceedings{balepur-etal-2024-smart,
     abbr= "EMNLP 2024",
     title = "A {SMART} Mnemonic Sounds like {``}Glue Tonic{''}: Mixing {LLM}s with Student Feedback to Make Mnemonic Learning Stick",
