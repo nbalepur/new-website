@@ -29,5 +29,8 @@
 "Preprint":
   color: "#497174"
 
+"Under Review":
+  color: "#497174"
+
 "In Progress":
   color: "#497174"
