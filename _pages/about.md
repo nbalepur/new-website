@@ -26,7 +26,7 @@ I semi-jokingly say that I work on bullying (evaluating weaknesses) and babysitt
 1. How can we better communicate **factual** knowledge?
    [[topic mining (ACL'23)](https://aclanthology.org/2023.findings-acl.14/), [expository text (EMNLP'23)](https://arxiv.org/abs/2305.03276), [fact transfer (EMNLP'23)](https://arxiv.org/abs/2310.14486), [debates](https://drive.google.com/file/d/1LCSlp33gILwGNZyMEiWCnpzWg8jX_of3/view?usp=sharing)]
 2. How can we align models that actually **help users**?
-   [[flashcards (EMNLP'24)](https://arxiv.org/abs/2402.12291), [mnemonics (EMNLP'24)](https://arxiv.org/abs/2406.15352), [personalized alignment](https://drive.google.com/file/d/1-EKjuwFZ_5MJ1ZlMfo9gXiuTu-s0pQd8/view?usp=sharing)]
+   [[flashcards (EMNLP'24)](https://arxiv.org/abs/2402.12291), [mnemonics (EMNLP'24)](https://arxiv.org/abs/2406.15352), [personalized alignment](https://arxiv.org/abs/2501.11549)]
 3. How can we design evaluations to expose model/dataset **weaknesses**?
    [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [mcqa artifacts (ACL'24)](https://arxiv.org/abs/2402.12483), [benchmark cheating (ACL'24)](https://arxiv.org/abs/2407.01992), [mcqa plausibility (EMNLP'24)](https://arxiv.org/abs/2410.10854), [reverse qa](https://arxiv.org/abs/2410.15512)]
 
