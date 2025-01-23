@@ -26,6 +26,10 @@
   url: https://2023.emnlp.org/
   color: "#fac919"
 
+"NAACL 2025":
+  url: https://2025.naacl.org/
+  color: "#6087e0"
+
 "Preprint":
   color: "#497174"
 
