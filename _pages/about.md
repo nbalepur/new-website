@@ -32,4 +32,4 @@ I semi-jokingly say that I work on bullying (evaluating flaws) and babysitting (
 
 I'm generally interested in research that is useful (help users) and fun (give outputs that are cool to look at). If you're interested in similar problems, don't hesitate to [reach out!](mailto:nbalepur@umd.edu)
 
-And if you've encountered another "Balepur, N" during your literature search, you may be looking for [my sister](https://nainasb.github.io/) 😛
+And if you've seen another "Balepur, N" during your literature search, you may be looking for [my sister](https://nainasb.github.io/) 😛
