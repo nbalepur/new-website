@@ -28,7 +28,7 @@ I semi-jokingly say that I work on bullying (evaluating flaws) and babysitting (
 2. How can we teach models to **help users**?
    [[flashcards (EMNLP'24)](https://arxiv.org/abs/2402.12291), [mnemonics (EMNLP'24)](https://arxiv.org/abs/2406.15352), [personalized dpo](https://arxiv.org/abs/2501.11549)]
 3. How can we build evaluations to expose **model/dataset flaws**?
-   [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [mcqa artifacts (ACL'24)](https://arxiv.org/abs/2402.12483), [benchmark cheating (ACL'24)](https://arxiv.org/abs/2407.01992), [mcqa plausibility (EMNLP'24)](https://arxiv.org/abs/2410.10854), [reverse qa (NAACL'25)](https://arxiv.org/abs/2410.15512), [mcqa sucks](https://drive.google.com/file/d/10yN0hlpEuJ7b8MrKmDOXfshe6geh9S_h/view)]
+   [[process of elimination (ACL'24)](https://arxiv.org/abs/2311.07532), [mcqa artifacts (ACL'24)](https://arxiv.org/abs/2402.12483), [benchmark cheating (ACL'24)](https://arxiv.org/abs/2407.01992), [mcqa plausibility (EMNLP'24)](https://arxiv.org/abs/2410.10854), [reverse qa (NAACL'25)](https://arxiv.org/abs/2410.15512), [mcqa is flawed](https://arxiv.org/abs/2502.14127)]
 
 I'm generally interested in research that is useful (helps users) and fun (outputs that are entertaining to look at). If you're interested in similar problems, don't hesitate to [reach out!](mailto:nbalepur@umd.edu)
 
