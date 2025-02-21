@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Tired of LLM evaluations based on multiple-choice question? Our new [position paper](https://arxiv.org/abs/2502.14127) discusses these issues and shows how insights from educational testing to make evaluations more meaningful
+Tired of LLM evaluations with multiple choice questions? Our new [position paper](https://arxiv.org/abs/2502.14127) discusses these flaws and how insights from education can make evaluations more meaningful
